@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #fdfdfd;
+  color: #333;
+}
+
+h1 {
+  color: #6b4226; /* ciepły brąz */
+  text-align: center;
+}
